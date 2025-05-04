@@ -1,2 +1,2 @@
-let b =1000
+let b =10000
 console.log(b)
